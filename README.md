@@ -42,3 +42,12 @@ Below listed all tasks with links and descriptions.
 - [2.1](./DesignRoguelike/text.pdf)
 
     - design game that meets the [requirements](./DesignRoguelike/task.md).
+
+## Classwork
+11.26.20
+
+[Strategical domain driven design notes](notes/12-strategical-domain-driven-design-text.pdf)
+
+- [3.1](./DesignBookstore/text.pdf)
+
+    - design book store that meets the [requirements](./DesignBookstore/task.md).
