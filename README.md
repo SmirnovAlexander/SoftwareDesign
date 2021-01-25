@@ -48,6 +48,15 @@ Below listed all tasks with links and descriptions.
 
 [Strategical domain driven design notes](notes/12-strategical-domain-driven-design-text.pdf)
 
-- [3.1](./DesignBookstore/text.pdf)
+- [.1](./DesignBookstore/text.pdf)
 
     - design book store that meets the [requirements](./DesignBookstore/task.md).
+
+## Homework 3. 
+27.01.21
+
+[Distributed applications design slides](slides/14-distributed-applications-design-slides.pdf)
+
+- [3.1](./DesignChat/text.pdf)
+
+    - design and make chat via gRPC that meets the [requirements](./DesignChat/task.md).
